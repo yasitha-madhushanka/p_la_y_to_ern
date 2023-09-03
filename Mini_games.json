@@ -3,4 +3,9 @@
     "adcoin_count": 1,
     "tile_speed": 2.6
 
+    "spin_w_1": 10
+    "spin_w_2": 20
+    "spin_w_3": 30
+    "spin_w_4": 40
+
 }
